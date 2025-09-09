@@ -1,6 +1,11 @@
 Samsung.com Front-End Replica
 This project is a personal endeavor to replicate the front-end of the official Samsung website. It was built with a focus on modern web development practices, including responsive design and interactive functionality, using core web technologies. The goal was to accurately mimic the look, feel, and user experience of a specific section of the site to demonstrate skills in HTML, CSS, and JavaScript.
 
+
+
+If you want to visit the website click on this (Deployed Link:https://samsung-clone-responsive-e-commerce-frontend-esq7wejm0.vercel.app/)
+
+
 🚀 Key Features
 Responsive Layout: The design adapts seamlessly to various screen sizes, from mobile devices to large desktop monitors, using a combination of Flexbox and CSS Grid.
 
